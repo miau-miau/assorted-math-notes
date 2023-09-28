@@ -1,5 +1,12 @@
-#24-08-2023
-
+---
+tags:
+  - logic
+  - proofs
+order-tag: "0004"
+aliases:
+  - prove
+date: 2023-08-24
+---
 #### How to prove
 To prove a statement is true, we must prove it in general, not in a specific example.
 

@@ -1,4 +1,10 @@
-#22-08-2023 
+---
+tags:
+  - logic
+order-tag: "0003"
+aliases: 
+date: 2023-08-22
+---
 #### There exists (existential quantifier)
 There exists $\\\exists$ stipulates the existence of an element for which a statement is true.
 

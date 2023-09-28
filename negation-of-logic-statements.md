@@ -1,4 +1,12 @@
-#22-08-2023 
+---
+tags:
+  - logic
+order-tag: "0002"
+aliases:
+  - negation
+  - contrapositive
+date: 2023-08-22
+---
 #### NOT (negation)
 The negation of $p$ is "it is not the case that $p$", written as $\neg p$.
 

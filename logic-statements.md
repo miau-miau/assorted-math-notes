@@ -1,5 +1,13 @@
-#22-08-2023
-
+---
+tags:
+  - logic
+order-tag: "0001"
+aliases:
+  - statements
+  - logic
+  - truth tables
+date: 2023-08-22
+---
 #### AND statement (conjunction)
 The statement "$p$ and $q$" ($p\land q$) is true if and only if both statements are true.
 
