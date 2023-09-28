@@ -57,7 +57,7 @@ The statement "$p$ implies $q$" ($p\to q$) is false only when $p$ is true and $q
 "If $p$, then $q$" can also be written as "$p$ implies $q$". 
 $p$ is a **hypothesis** and $q$ is a **conclusion**.
 
->[!info]
+>[!note]
 >In many problems, $p$ can be called a **sufficient condition**, meaning that if you want $q$ to be true, it is sufficient to show that $p$ is true, while $q$ can be called a **necessary** condition, meaning that if $q$ is false, then $p$ cannot be true either.
 #### The converse of implication
 The converse of $p\to q$ is $q\to p$.
@@ -82,7 +82,7 @@ Double implication ($p\leftrightarrow q$) is true if $p$ and $q$ have the same t
 >"He lives in the United States $\leftrightarrow$ He lives in New York" is *False*, since $\to$ is true, but $\leftarrow$ is false. 
 
 >[!note]
->$(p\to q)\land(q\to p)$ is the same as $p\leftrightarrow q$, which can be seen in the truth table below. This fact will be useful in proofs, i.e. to prove a double implication true, you may prove implication and its converse true.
+>$(p\to q)\land(q\to p)$ is the same as $p\leftrightarrow q$, which can be seen in the truth table below. This fact will be useful in [[proofs]], i.e. to prove a double implication true, you may prove implication and its converse true.
 
 ##### Truth Table
 | $p$ | $q$ | $p\to q$ | $q\to p$ | $p\leftrightarrow q$ |

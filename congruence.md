@@ -1,5 +1,4 @@
 #14-09-2023 
-
 #### Definitions
 
 >[!definition]
