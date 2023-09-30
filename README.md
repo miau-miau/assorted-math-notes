@@ -13,4 +13,6 @@ Mathematics is beautiful, and notes should be too. That's why this collection in
 At this moment, it roughly follows "Discrete Mathematics with Graph Theory 3rd ed" by Edgar G. Goodaire and Michael M. Parmenter, but will be expanded over time.
 
 ---
-For the best reading experience, [tikz plugin](https://github.com/artisticat1/obsidian-tikzjax) is recommended.
+Tips:
+- For the best reading experience, [tikz plugin](https://github.com/artisticat1/obsidian-tikzjax) is recommended.
+- Sort notes by "order-tag" (in Properties) to read them in recommended order.
