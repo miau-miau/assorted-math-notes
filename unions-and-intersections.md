@@ -1,11 +1,7 @@
 ---
 tags:
-  - sets
-  - naive-set-theory
+  - set-theory
 order-tag: "0007"
-aliases:
-  - union
-  - intersection
 date: 2023-08-29
 ---
 #### Union
@@ -100,7 +96,7 @@ $A\cap B=A$ if and only if $A\subseteq B$.
 Then $x\in A\to x\in A\cap B\to x\in B$.
 Thus $A\subseteq B$.
 ($\leftarrow$) Let $A\subseteq B$.
-To show $A\cap B=A$, we will show $A\subseteq A\cap B$ [[sets#Proposition|and]] $A\cap B\subseteq A$.
+To show $A\cap B=A$, we will show $A\subseteq A\cap B$ [[sets-naive#Proposition|and]] $A\cap B\subseteq A$.
 - $x\in A\to x\in B\to (x\in A\land x\in B)\to x\in A\cap B$. Thus $A\subseteq B$.
 - $x\in A\cap B\to x\in A$. Thus $A\cap B\subseteq A$.
 

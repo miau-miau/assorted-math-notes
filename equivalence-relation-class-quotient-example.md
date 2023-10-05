@@ -1,14 +1,13 @@
 ---
 tags:
-  - sets
-  - naive-set-theory
-  - "#example"
+  - worked-example
+  - set-theory
 order-tag: "0022"
 date: 2023-09-05
 ---
 #### Example 1
 Define $\sim$ on $\mathbb{Z}$ by:
-$$a\sim b\leftrightarrow 3|a-b (a-b \textnormal{ is divisible by }3)$$
+$$a\sim b\leftrightarrow 3|a-b\quad(a-b \textnormal{ is divisible by }3)$$
 $(R=\{ (a,b)\in\mathbb{Z}\mid 3 \textnormal{ divides } a-b \})$
 
 1. Let's check that $\sim$ is an [[equivalence-relation|equivalence relation]]:

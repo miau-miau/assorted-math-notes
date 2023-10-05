@@ -1,7 +1,6 @@
 ---
 tags:
-  - sets
-  - naive-set-theory
+  - set-theory
 order-tag: "0015"
 date: 2023-08-31
 ---

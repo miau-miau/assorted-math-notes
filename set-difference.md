@@ -1,14 +1,13 @@
 ---
 tags:
-  - sets
-  - naive-set-theory
+  - set-theory
 order-tag: "0008"
 date: 2023-08-29
 ---
 #### Set Difference
 
 >[!definition]
->The **set difference** of $A$ and $B$ ($A\setminus B$) is the [[sets|set]] of $A$ that are not in $B$.
+>The **set difference** of $A$ and $B$ ($A\setminus B$) is the [[sets-naive|set]] of $A$ that are not in $B$.
 >
 >>[!example]
 >>$\{ a,b,c \} \setminus \{ c,x \}=\{ a,b \}$

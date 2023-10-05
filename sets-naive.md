@@ -1,9 +1,7 @@
 ---
 tags:
-  - sets
-  - naive-set-theory
+  - set-theory
 order-tag: "0005"
-aliases: 
 date: 2023-08-29
 ---
 >[!definition]

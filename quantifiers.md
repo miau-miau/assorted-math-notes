@@ -2,7 +2,6 @@
 tags:
   - logic
 order-tag: "0003"
-aliases: 
 date: 2023-08-22
 ---
 #### There exists (existential quantifier)

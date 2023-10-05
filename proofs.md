@@ -3,8 +3,6 @@ tags:
   - logic
   - proofs
 order-tag: "0004"
-aliases:
-  - prove
 date: 2023-08-24
 ---
 #### How to prove

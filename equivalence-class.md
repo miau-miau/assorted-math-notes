@@ -1,12 +1,11 @@
 ---
 tags:
-  - sets
-  - naive-set-theory
+  - set-theory
 order-tag: "0019"
 date: 2023-09-05
 ---
 >[!definition]
->Let $\sim$ be an [[equivalence-relation|equivalence relation]] on $A$, and let $a\in A$. The **equivalence class** of $a$ is the [[sets#Subsets|subset]] of $A$:
+>Let $\sim$ be an [[equivalence-relation|equivalence relation]] on $A$, and let $a\in A$. The **equivalence class** of $a$ is the [[sets-naive#Subsets|subset]] of $A$:
 >$$\bar{a}=\{ x\in A\mid x\sim a \}$$
 >
 >>[!example]

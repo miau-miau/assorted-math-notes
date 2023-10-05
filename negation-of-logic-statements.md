@@ -3,7 +3,6 @@ tags:
   - logic
 order-tag: "0002"
 aliases:
-  - negation
   - contrapositive
 date: 2023-08-22
 ---
