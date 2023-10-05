@@ -22,16 +22,3 @@ Therefore, $\bar{a}=\bar{b}$.
 
 We have thus shown $a\sim b\leftrightarrow \bar{a}=\bar{b}$.
 Now let $a\not\sim b$. Assume $\bar{a}\cap \bar{b}\neq\emptyset$. Then $\exists\;x\in(\bar{a}\cap \bar{b})\to x\sim a \textnormal{ and } x\sim b\to a\sim b$ (by transitivity). But this is a contradiction. This $\bar{a}\cap \bar{b}=\emptyset$.
-
-#### Examples
-
->[!example]
->Define $\sim$ on $\mathbb{Z}$ by:
->$$a\sim b\leftrightarrow 3|a-b (a-b \textnormal{ is divisible by }3)$$
->$(R=\{ (a,b)\in\mathbb{Z}\mid 3 \textnormal{ divides } a-b \})$
->Let's check that $\sim$ is an equivalence relation:
->- *Reflexive*: $a-a=0\to 3|a-a\to a\sim a$ ✔️
->- *Symmetric:* $a\sim b\to 3|a-b \to 3|-(a-b)\to 3|b-a\to b\sim a$ ✔️
->- *Transitive*: $a\sim b\textnormal{ and }b\sim c\to 3|a-b \textnormal{ and } 3|b-c \to$
->$3|(a-b)+(b-c) \to 3|a-c\to a\sim c$ ✔️
-
