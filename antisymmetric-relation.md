@@ -8,17 +8,17 @@ date: 2023-08-31
 >A [[binary-relation|binary relation]] on $A$ is **antisymmetric** if
 >$$(a,b)\in R \land (b,a)\in R\to a=b$$
 >More intuitively,
->if $a\neq b$, then $(a,b)$ and $(b,a)$ are not both in $R$.
+>$\textnormal{if }a\neq b,\textnormal{ then }(a,b)\textnormal{ and }(b,a)\textnormal{ are not both in }R.$
 >
 >>[!example]
->>$A=\{$ people in the world $\}$
->>- $R=\{ (a,b)\in A\times A\mid a$ is related to $b\}$ is [[symmetric-relation|symmetric]] since
->>$(a,b)\in R\to a$ is related to $b$
->>$\to b$ is related to $a$
+>>$A=\{ \textnormal{ people in the world } \}$
+>>- $R=\{ (a,b)\in A\times A\mid a\textnormal{ is related to }b\}$ is [[symmetric-relation|symmetric]] since
+>>$(a,b)\in R\to a\textnormal{ is related to }b$
+>>$\to b\textnormal{ is related to }a$
 >>$\to(b,a)\in R$.
->>- $R = \{ (a,b)\in A\times A\mid a$ is a parent of $b\}$ is antisymmetric since
->>$(a,b)\in R\to a$ is a parent of $b$
->>$\to b$ is not a parent of $a$
+>>- $R = \{ (a,b)\in A\times A\mid a\textnormal{ is a parent of }b\}$ is antisymmetric since
+>>$(a,b)\in R\to a \textnormal{ is a parent of }b$
+>>$\to b\textnormal{ is not a parent of }a$
 >>$\to(b,a)\notin R$.
 
 >[!example]- More examples

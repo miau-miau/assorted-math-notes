@@ -9,9 +9,9 @@ date: 2023-08-29
 >
 >>[!example]
 >>- $\{1,2,10,-3\}$
->>- $\{$Boston, Chicago, New York$\}$
->>- $\{$even integers$\} = \{2n \mid n$ is an integer $\}$
->>- $\{$odd integers$\} = \{2n+1\mid n$ is an integer $\}$
+>>- $\{\textnormal{ Boston, Chicago, New York }\}$
+>>- $\{ \textnormal{ even integers }\} = \{2n \mid n\textnormal{ is an integer}\}$
+>>- $\{\textnormal{ odd integers }\} = \{2n+1\mid n \textnormal{ is an integer} \}$
 
 >[!info] Notation
 >- $\in$ means that an element belongs to the set

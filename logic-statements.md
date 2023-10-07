@@ -12,8 +12,8 @@ date: 2023-08-22
 The statement "$p$ and $q$" ($p\land q$) is true if and only if both statements are true.
 
 >[!example]
->"$2+2=4$ and $17$ is prime" is *True*
->"$2+2=4$ and $18$ is prime" is *False*
+>"$2+2=4 \textnormal{ and }17 \textnormal{ is prime}$" is *True*
+>"$2+2=4\textnormal{ and }18 \textnormal{ is prime}$" is *False*
 ##### Truth Table
 | $p$ | $q$ | $p\land q$ |
 | --- | --- | ---------- |
@@ -27,8 +27,8 @@ The statement "$p$ and $q$" ($p\land q$) is true if and only if both statements 
 The statement "$p$ or $q$" ($p\lor q$) is true if at least one of the statements is true.
 
 >[!example]
->"$2+2=4$ and $18$ is prime" is *True*
->"$2+2=5$ and $18$ is prime" is *False*
+>"$2+2=4\textnormal{ and }18 \textnormal{ is prime}$" is *True*
+>"$2+2=5\textnormal{ and }18 \textnormal{ is prime}$" is *False*
 
 ##### Truth Table
 | p   | q   | $p\lor q$ |
@@ -40,12 +40,12 @@ The statement "$p$ or $q$" ($p\lor q$) is true if at least one of the statements
 
 
 #### Implication (if ..., then ...)
-The statement "$p$ implies $q$" ($p\to q$) is false only when $p$ is true and $q$ is false.
+The statement "$p \textnormal{ implies } q$" ($p\to q$) is false only when $p$ is true and $q$ is false.
 
 >[!example]-
 >"If it is sunny tomorrow, then I will run"
 >
-| Sunny | Run | $Sunny\to run$ | Explanation                                          |
+| Sunny | Run | Sunny$\to$ run | Explanation                                          |
 | ----- | --- | -------------- | ---------------------------------------------------- |
 | T     | T   | T              | It is sunny and I *am* running, so I told the truth  |
 | T     | F   | F              | It is sunny but I am *not* running, so I lied        |
@@ -62,7 +62,7 @@ The statement "$p$ implies $q$" ($p\to q$) is false only when $p$ is true and $q
 | F   | F   | T        |
 
 ##### Notes on language
-"If $p$, then $q$" can also be written as "$p$ implies $q$". 
+"$\textnormal{If }p, \textnormal{ then } q$" can also be written as "$p\textnormal{ implies }q$". 
 $p$ is a **hypothesis** and $q$ is a **conclusion**.
 
 >[!note]
@@ -86,7 +86,7 @@ The converse of $p\to q$ is $q\to p$.
 Double implication ($p\leftrightarrow q$) is true if $p$ and $q$ have the same truth value, and false otherwise.
 
 >[!example]
->"$2$ is even $\leftrightarrow$ $4$ is even" is *True*
+>"$2 \textnormal{ is even }\leftrightarrow 4 \textnormal{ is even}$" is *True*
 >"He lives in the United States $\leftrightarrow$ He lives in New York" is *False*, since $\to$ is true, but $\leftarrow$ is false. 
 
 >[!note]

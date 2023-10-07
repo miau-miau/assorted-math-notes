@@ -23,7 +23,7 @@ $$
 $$
 
 >[!example]
->"$\neg$(x is even and y is even)" is "it is not the case that x is even and y is even", which means that at least one of them is not even. Rewording, we have "x is odd or y is odd".
+>"$\neg$($x$ is even and $y$ is even)" is "it is not the case that $x$ is even and $y$ is even", which means that at least one of them is not even. Rewording, we have "$x$ is odd or $y$ is odd".
 
 
 #### Negation of [[logic-statements#OR statement (disjunction)|disjunction]]

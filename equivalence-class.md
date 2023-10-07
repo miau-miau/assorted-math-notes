@@ -10,6 +10,6 @@ date: 2023-09-05
 >
 >>[!example]
 >>Let $A$ be a set of all people, and $a\sim b$ if $a$ and $b$ have the same eye color. If Mary has blue eyes, then
->>$$\overline{\textnormal{Mary}}=\{ \textnormal{people with blue eyes} \}$$
+>>$$\overline{\textnormal{Mary}}=\{ \textnormal{ people with blue eyes } \}$$
 
 The equivalence classes of $A$ are *disjoint* and the union of them is $A$. This is called a [[partition-of-sets|partition]] of $A$. It is true in general.

@@ -17,8 +17,8 @@ date: 2023-08-31
 >[!example]- More examples
 >- $R=\{ (x,y)\in\mathbb{R}\mid x^{2}+y^{2}=1 \}$ is symmetric,
 >since $(a,b)\in R\to a^{2}+b^{2}=1\to b^{2}+a^{2}=1\to(b,a)\in R$.
->- $R=\{ (x,y)\in\mathbb{N}\mid x-y$ is even $\}$ is symmetric,
->since $(a,b)\in R\to(a-b)$ is even $\to -(a-b)=b-a$ is even $\to(b,a)\in R$.
+>- $R=\{ (x,y)\in\mathbb{N}\mid x-y \textnormal{ is even}\}$ is symmetric,
+>since $(a,b)\in R\to(a-b) \textnormal{ is even}\to -(a-b)=b-a \textnormal{ is even}\to(b,a)\in R$.
 ##### Geometry
 A binary relation on $\mathbb{R}$ is symmetric of the associated graph is symmetric about $y=x$.
 For example, $R={(x,y)\in\mathbb{R}\mid x^{2}+y^{2}=1}$ is symmetric.

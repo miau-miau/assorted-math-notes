@@ -9,7 +9,7 @@ date: 2023-09-05
 
 #### Theorem (partition)
 Let $\sim$ be an [[equivalence-relation|equivalence relation]] on a set $A$. Then $$\forall a,b\in A,\quad a\sim b \leftrightarrow \bar{a}=\bar{b}$$
-Moreover, if $a\not\sim b$, then $\bar{a}\cap \bar{b}=\emptyset$. 
+Moreover, $\textnormal{if }a\not\sim b, \textnormal{ then }\bar{a}\cap \bar{b}=\emptyset$. 
 Consequently, the equivalence classes of $A$ from a partition of $A$.
 ##### Proof
 ($\rightarrow$) Let $a\sim b$. We need to show $\bar{a}=\bar{b}$.

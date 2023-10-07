@@ -9,15 +9,15 @@ $$a)\;(A\cup B)^{\mathsf{c}}=A^{\mathsf{c}}\cap B^{\mathsf{c}}$$
 $$b)\;(A\cap B)^{\mathsf{c}}=A^{\mathsf{c}}\cup B^{\mathsf{c}}$$
 See [[unions-and-intersections|unions, intersections]] and [[set-complement|complements]].
 ##### Proof a)
-$x\in(A\cup B)^{\mathsf{c}}\leftrightarrow x\notin A\cup B \leftrightarrow \neg(x\in A\cup B)\leftrightarrow$
-$\neg(x\in A \lor x\in B) \leftrightarrow$ (see [[negation-of-logic-statements#Negation of logic-statements OR statement (disjunction) disjunction|negation of or statement]])
-$x\notin A \land x\notin B\leftrightarrow x\in A^{\mathsf{c}}\cap B^{\mathsf{c}}$.
+$x\in(A\cup B)^{\mathsf{c}}\leftrightarrow x\notin A\cup B \leftrightarrow \neg(x\in A\cup B)$
+$\leftrightarrow\neg(x\in A \lor x\in B)$ (see [[negation-of-logic-statements#Negation of logic-statements OR statement (disjunction) disjunction|negation of or statement]])
+$\leftrightarrow x\notin A \land x\notin B\leftrightarrow x\in A^{\mathsf{c}}\cap B^{\mathsf{c}}$.
 Hence $(A\cup B)^{\mathsf{c}}=A^{\mathsf{c}}\cap B^{\mathsf{c}}$.
 
 ##### Proof b)
-$x\in(A\cap B)^{\mathsf{c}}\leftrightarrow x\notin A\cap B\leftrightarrow\neg(x\in A\cap B)\leftrightarrow$
-$\neg(x\in A \land x\in B) \leftrightarrow$
-$x\notin A \lor x\notin B\leftrightarrow x\in A^{\mathsf{c}}\cap B^{\mathsf{c}}$
+$x\in(A\cap B)^{\mathsf{c}}\leftrightarrow x\notin A\cap B\leftrightarrow\neg(x\in A\cap B)$
+$\leftrightarrow\neg(x\in A \land x\in B)$
+$\leftrightarrow x\notin A \lor x\notin B\leftrightarrow x\in A^{\mathsf{c}}\cap B^{\mathsf{c}}$
 Hence $(A\cap B)^{\mathsf{c}}=A^{\mathsf{c}}\cap B^{\mathsf{c}}$.
 #### Venn diagrams
 ```tikz

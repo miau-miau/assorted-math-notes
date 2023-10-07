@@ -28,9 +28,9 @@ To prove $A\to B$, prove a series of implications $A\to A_{1}\to\dots\to A_{x}\t
 
 >[!example]-
 >Prove that if $n$ is even, then $n^{2}$ is even.
->>$n$ is even $\to n=2k$ for some integer $k$
+>>$n\textnormal{ is even}\to n=2k\textnormal{ for some integer }k$
 >>$\to n^{2}=(2k)^{2}=4k^{2}=2(2k^{2})$
->>$\to n^{2}$ is even.
+>>$\to n^{2} \textnormal{ is even}.$
 
 
 #### Proof by cases
@@ -39,16 +39,16 @@ Breaking a proof into cases.
 >[!example]
 >Let $n$ be an integer, Prove that $9n^{2}+3n-2$ is even.
 >>**Case 1.** $n$ is even.
->>Then $n=2k$ for some integer $k$
+>>Then $n=2k \textnormal{ for some integer }k$
 >>$\to 9n^{2}+3n-2=9(2k)^{2}+3(2k)-2$
 >>$=36k^{2}+6k-2=2(18k^{2}+3k-1)$
->>$9n^{2}+3n-2$ is even.
+>>$9n^{2}+3n-2\textnormal{ is even}$.
 >>
 >>**Case 2.** $n$ is odd
->>Then $n=2k+1$ from some integer $k$
+>>Then $n=2k+1 \textnormal{ for some integer }k$
 >>$\to 9n^{2}+3n-2=9(2k+1)^{2}+3(2k+1)-2$
 >>$=36k^{2}+42k+10=2(18k^{2}+21k+5)$
->>$\to 9n^{2}+3n-2$ is even.
+>>$\to 9n^{2}+3n-2\textnormal{ is even}$.
 
 
 #### Proof by [[negation-of-logic-statements#Contrapositive|Contrapositive]]
@@ -61,11 +61,11 @@ Instead of proving $A\to b$, prove $\neg B\to\neg A$, which is [[negation-of-log
 >>$$\frac{11+10+9+8}{4}=\frac{38}{4}=9.5<10.$$
 
 >[!example]-
->Prove that if $n^{2}$ is even, then so is $n$.
->>*We will prove: if $n$ is odd, then $n^{2}$ is odd.*
->>$n$ is odd $\to n=2k+1$ for some integer $k$
+>Prove that if $n^{2} \textnormal{ is even, then so is }n$.
+>>*We will prove: $\textnormal{if }n \textnormal{ is odd, then }n^{2} \textnormal{ is odd}$.
+>>$n \textnormal{ is odd }\to n=2k+1 \textnormal{ for some integer }k$
 >>$\to n^{2}=(2k+1)^{2}=4k^{2}+4k+1=2(2k^{2}+2k)+1$
->>$\to n^{2}$ is odd.
+>>$\to n^{2} \textnormal{ is odd.}$
 
 >[!example]- Comparison
 >Prove that $x^{2}+y^{2}=0\leftrightarrow x=y=0$.
@@ -84,7 +84,7 @@ To prove a statement $A$ true, assume $\neg A$ instead. If this assumption leads
 >Let $a$ be  a nonzero rational number. Let $b$ be an irrational number. Prove $ab$ is irrational.
 >>Assume $ab$ is rational. Then $ab=\frac{x}{y}$, where $x,y$ are integers. Since $a$ is rational, $a=\frac{p}{q}$, where $p,q$ are integers.
 >>$$ab=\frac{x}{y}=\frac{p}{q}b=\frac{x}{y}\to b=\frac{xq}{yp}$$
->>This implies $b$ is rational, which contradicts the fact that $b$ is irrational. Therefore, $ab$ must be irrational/
+>>This implies $b$ is rational, which contradicts the fact that $b$ is irrational. Therefore, $ab$ must be irrational.
 
 >[!example]-
 >Prove that $\sqrt{ 2 }$ is an irrational number.

@@ -10,7 +10,7 @@ date: 2023-08-29
 >The **complement** of a set $A$ ($A^{\mathsf{c}}$) is $U\setminus A$, where $U$ is some universal set made clear by context.
 >
 >>[!example]
->>- $\{ Mon,Tue,Wed,Thu,Fri,Sat \}^{\mathsf{c}}=\{ Sun \}$. The universal set is days of the week.
+>>- $\{ \textnormal{ Mon, Tue, Wed, Thu, Fri, Sat }\}^{\mathsf{c}}=\{ \textnormal{ Sun }\}$. The universal set is days of the week.
 >>- $A=\{ 1,2,5,6,\dots \}^{\mathsf{c}}=\{ 3,4 \},\;U=\mathbb{N}$
 
 ```tikz

@@ -21,17 +21,16 @@ $\;\;\;\quad\{ a\in\mathbb{Z}\mid a=3k,k\in\mathbb{Z} \}=$
 $\;\;\;\quad\{ 0,\pm 3,\pm 6,\pm 9,\dots \}=3\mathbb{Z}$
 $\bar{1}=\{ a\in\mathbb{Z}\mid 3|a-1 \}=$
 $\;\;\;\quad\{ a\in\mathbb{Z}\mid a=3k+1,k\in\mathbb{Z} \}=$
-$\;\;\;\quad\{ 1,\pm 4,\pm 7,\pm 10,\dots \}=3\mathbb{Z}$
+$\;\;\;\quad\{ 1,\pm 4,\pm 7,\pm 10,\dots \}=3\mathbb{Z}+1$
 $\bar{2}=\{ a\in\mathbb{Z}\mid 3|a-2 \}=$
 $\;\;\;\quad\{ a\in\mathbb{Z}\mid a=3k+2,k\in\mathbb{Z} \}=$
-$\;\;\;\quad\{ 2,\pm 5,\pm 8,\pm 11,\dots \}=3\mathbb{Z}$
+$\;\;\;\quad\{ 2,\pm 5,\pm 8,\pm 11,\dots \}=3\mathbb{Z}+2$
 
 Notice, $\mathbb{Z}=\bar{0}\cup \bar{1}\cup \bar{2}$. (it is a [[partition-of-sets|partition]]).
 The [[quotient-set|quotient set]] is 
 $$
 \mathbb{Z}/\sim=\{ \bar{0}, \bar{1}, \bar{2}\}=\{ 3\mathbb{Z},\;3\mathbb{Z}+1,\;3\mathbb{Z}+2 \}
 $$
-
 #### Example 2
 Define $\sim$ on $\mathbb{R}^{2}$ by:
 $$

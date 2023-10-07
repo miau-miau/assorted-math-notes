@@ -1,6 +1,7 @@
 ---
 tags:
   - set-theory
+  - worked-example
 order-tag: "0017"
 date: 2023-08-31
 ---
