@@ -1,11 +1,15 @@
-#14-09-2023 #number_theory
-
+---
+tags:
+  - number-theory
+order-tag: "0034"
+date: 2023-09-14
+---
 #### Bézout's lemma
 There exists $x,y\in\mathbb{Z}$ such that $gcd(a,b)=ax+by$.
 
-We can use the [[euclidean-algorithm|Euclidean algorithm]] backwards to write $gcd(a,b)$ as a **linear combination** of a and b, i.e. $gcd(a,b)=ax+by$ for some $x,y\in\mathbb{Z}$.
+We can use the [[euclidean-algorithm|Euclidean algorithm]] backwards to write [[greatest-common-divisor|greatest common divisor]] of $a$ and $b$ as a **linear combination** of $a$ and $b$, i.e. $gcd(a,b)=ax+by$ for some $x,y\in\mathbb{Z}$.
 
->[!example]-
+>[!example]
 >Write $14$ as a linear combination of 630 and 196 (i.e. find $x,y\in\mathbb{Z}$ such that $14=630x+196y$).
 >$630=3*196+42$
 >$196=4*42+28$

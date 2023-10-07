@@ -1,5 +1,9 @@
-#12-09-2023 
-
+---
+tags:
+  - number-theory
+order-tag: "0030"
+date: 2023-09-12
+---
 Representing natural number in bases is an application of the [[division-algorithm]].
 
 >[!example]-
@@ -14,11 +18,13 @@ Representing natural number in bases is an application of the [[division-algorit
 >$$20=2*10+0$$
 >$$2=0*10+2$$
 These remainders are the digits of $2023$.
-
 #### General case
-In general, for a fixed integer $b>1$, the **base b representation** of a natural number $N$ is the expression $(a_{n-1}a_{n-2}\dots a_{1}a_{0})_{b}$, where $0\leq a_{i}<b$ and $N=a_{n-1}b^{n-1}+\dots+a_{1}b^1+a_{0}b^0$.
-Moreover, the numbers $a_{0},\dots,a_{n-1}$ are the remainders when $N$ and then successive quotients are divided by $b$.
-- Common bases: 2 (binary), 8 (octal), 16 (hexadecimal)
+
+>[!definition]
+>In general, for a fixed integer $b>1$, the **base b representation** of a natural number $N$ is the expression $(a_{n-1}a_{n-2}\dots a_{1}a_{0})_{b}$, where $0\leq a_{i}<b$ and $N=a_{n-1}b^{n-1}+\dots+a_{1}b^1+a_{0}b^0$.
+>Moreover, the numbers $a_{0},\dots,a_{n-1}$ are the **remainders** when $N$ and then successive quotients are divided by $b$.
+>>[!note]
+>>Some common bases are $2$ (binary), $8$ (octal), $16$ (hexadecimal).
 
 >[!example]
 >Find the hexadecimal representation of $2023$. This requires repeated use of the [[division-algorithm]].

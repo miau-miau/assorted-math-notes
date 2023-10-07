@@ -1,9 +1,13 @@
-#14-09-2023 
-
+---
+tags:
+  - number-theory
+order-tag: "0036"
+date: 2023-09-14
+---
 >[!definition]
 >If $a,b\in\mathbb{Z}\setminus\{0\}$, then **the least common multiple** of $a$ and $b$ ($lcm(a,b)$) is the positive integer satisfying:
->1. $a|l$ and $b|l$
->2. if $a|m$ and $b|m$, then $m\geq l$.
+>1. $a|l\textnormal{ and }b|l$
+>2. $\textnormal{if }a|m\textnormal{ and }b|m,\textnormal{ then }m\geq l$.
 >
 >>[!example]-
 >>$lcm(6,9)=18$
@@ -13,7 +17,7 @@
 Since $\mid ab\mid$ is a common multiple of $a$ and $b$, $lcm(a,b)\leq\mid ab\mid$.
 
 #### Proposition
-If $a$ and $b$ are [[greatest-common-divisor#^e11ce0|relatively prime]], then $lcm(a,b)=\mid ab\mid$.
+$$\textnormal{If }a\textnormal{ and }b\textnormal{ are relatively prime, then }lcm(a,b)=\mid ab\mid$$
 ##### Proof
 We know that $lcm(a,b)\leq\mid ab\mid$. So we need only show that $\mid ab\mid\leq lcm(a,b)$. Let $l=lcm(a,b)$. By definition, $a|l$ and $b|l$. Hence, $\\\exists k_{1},k_{2}\in\mathbb{Z}$ such that $l=k_{1}a$ and $l=k_{2}b$. Since $gcd(a,b)=1$, $\\\exists m,n\in\mathbb{Z}$ such that $1=am+bn$ (by [[linear-combination-of-gcd|Bezout's lemma]]). Multiplying by $l$ gives $$l=aml+bnl=am(k_{2}b)+bn(k_{1}a)=ab(mk_{2}+nk_{1}).$$
 Thus, $ab|l\implies\mid ab\mid|l\implies\mid ab\mid\leq l$.

@@ -1,14 +1,19 @@
-#14-09-2023 
+---
+tags:
+  - number-theory
+order-tag: "0037"
+date: 2023-09-14
+---
 #### Definitions
 
 >[!definition]
->The equivalence relation defined as
+>The [[equivalence-relation|equivalence relation]] defined as
 >$$a\sim b\leftrightarrow n\;\vert\;a-b\quad(n\in\mathbb{N})$$
 >is called **congruence modulo** $n$ and we write
 >$$a\equiv b\enspace mod\enspace n \leftrightarrow n\;\vert\;a-b$$
->The equivalence classes are called **congruence classes**. To recall, these are of the form
+>The [[equivalence-class|equivalence classes]] are called **congruence classes**. To recall, these are of the form
 >$$n\mathbb{Z}+r=\{na+r\mid a\in\mathbb{Z}\}$$
->These form a partition of $\mathbb{Z}$.
+>These form a [[partition-of-sets|partition]] of $\mathbb{Z}$.
 >>[!example]-
 >>- What is $\bar{0}$?
 >>$\bar{0}=\{x\in\mathbb{Z}\mid x\equiv 0\enspace mod\enspace 5\}$
@@ -27,10 +32,9 @@ Since $\equiv$ is an equivalence relation, the congruence classes $\bar{0},\bar{
 >- Let $n=32$. To which congruence class does $258$ belong to?
 >Since $258=8(32)+2,\quad 258\in\bar{2}=32\mathbb{Z}+2$.
 
-
 #### Reduction
 >[!definition]
 >The **reduction** of an integer $x\enspace mod\enspace n$ is the remainder of $x$ after diving by $n$. We express this as $x(mod\;n)$.
 >>[!example]
->>- $258(mod\;32)=2$ (previous example)
->>- $-17(mod\;3)=1$ since $-17=-6(3)+1$.
+>>- $258\;(\textnormal{mod }32)=2$ (previous example)
+>>- $-17\;(\textnormal{mod }3)=1$ since $-17=-6(3)+1$.
