@@ -11,7 +11,7 @@ $$\textnormal{If }d|a\textnormal{ and }d|b,\textnormal{ then }d|gcd(a,b)$$
 ##### Proof
 Let $g=gcd(a,b)$. Then $\exists\,m,n\in\mathbb{Z}$ such that $g=am+bn$. Since $d|a$ and $d|b$, $d|am+bn$. Hence $d|g$.
 
-#### Proposition
+#### Proposition (coprime divisibility)
 Let $a$ and $b$ be relatively prime.
 	a) if $a|bx$, then $a|x$.
 	b) if $a|c$ and $b|c$, then $ab|c$. ^c9e685

@@ -31,7 +31,7 @@ Let $g=gcd(a,b)$ and $l=lcm(a,b)$.
 Since $g|a$, $\\\exists m\in\mathbb{Z},\quad a=mg$.
 Since $g|b$, $\\\exists n\in\mathbb{Z},\quad b=ng$.
 Then $l=lcm(mg,ng)\implies mg|l\implies g|l\implies\\\exists k\in\mathbb{Z}, \quad l=gk$.
-Since $mg|gmn$ and $ng|gmn$, $$lcm(mg,ng)=l=gk\leq gmn\implies k\leq mn.$$On the other hand, $mg|l\implies mg|gk\implies m|k$, and similarly, $n|k$. But $m,n$ are coprime, [[gcd-facts#^c9e685|which means]] that $mn|k$. Therefore, $k\geq mn.$
+Since $mg|gmn$ and $ng|gmn$, $$lcm(mg,ng)=l=gk\leq gmn\implies k\leq mn.$$On the other hand, $mg|l\implies mg|gk\implies m|k$, and similarly, $n|k$. But $m,n$ are coprime, [[gcd-facts#Proposition (coprime divisibility)|which means]] that $mn|k$. Therefore, $k\geq mn.$
 Thus, $k=mn\implies lcm(a,b)=gmn$.
 $$
 \frac{\mid ab\mid}{gcd(a,b)}=\frac{mg*ng}{g}=gmn=lcm(a,b).
