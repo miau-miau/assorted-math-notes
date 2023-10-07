@@ -14,3 +14,14 @@ date: 2023-08-31
 >[!example]- More examples
 >- Let $A=\mathbb{R}$. Then $R=\{ (x,y)\in\mathbb{R}^{2}\mid x\leq y \}$ is a binary relation on $\mathbb{R}$ (it "relates" pairs of elements of $\mathbb{R}$).
 >- Let $A=\mathbb{Z}$. Then $R=\left\{  (a,b)\in \mathbb{Z}^{2}\mid \frac{a}{b}\in\mathbb{Z} \right\}$ is a binary relation on $\mathbb{Z}$.
+
+More generally, 
+>[!definition]
+>A **binary relation** from $A$ to $B$ is a subset of $A\times B$.
+>
+>>[!examples]
+>>$A=\{ \textnormal{ baseball players } \}$
+>>$B=\mathbb{N}\cup \{ 0 \} = \textnormal{nonnegative integers}$
+>>$R=\{ (a,b)\in A\times B\mid a \textnormal{ has } b \textnormal{ homeruns} \}$
+>>$(\textnormal{Albert Pujols}, 703)\in R$.
+
