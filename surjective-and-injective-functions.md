@@ -8,6 +8,8 @@ date: 2023-09-07
 >[[functions|Function]] $f$ is **onto** (surjective) if $\textnormal{rng }f=B$
 >$$\forall\;b\in B, b=f(x) \textnormal{ has a solution } x\in A$$
 
+^667413
+
 >[!definition]
 >$f$ is **one-to-one** (injective) if different elements of $A$ have different images
 >$$f(a_{1})=f(a_{2})\to a_{1}=a_{2}$$

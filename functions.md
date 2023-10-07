@@ -1,7 +1,6 @@
 ---
 tags:
   - "#functions-and-maps"
-  - set-theory
 order-tag: "0023"
 date: 2023-09-07
 ---
@@ -10,7 +9,7 @@ date: 2023-09-07
 >$$\forall a\in A, \exists \textnormal{ exactly one } b\in B \textnormal{ such that } (a,b)\in f$$
 >
 >>[!example]
->>Let $A$ be a set of all adults and $B$ a set of all children on Earth. The relation
+>>Let $A$ be a [[sets-naive|set]] of all adults and $B$ a set of all children on Earth. The relation
 >>$$R=\{ (a,b)\in A\times B\mid a \textnormal{ is a parent of } b \}$$
 >>is not a function since one adult can have several children.
 
