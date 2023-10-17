@@ -19,3 +19,6 @@ We can use the [[euclidean-algorithm|Euclidean algorithm]] backwards to write [[
 >$42=1*630-3*196$
 >$28=1*196-4*42=1*196-4(1*630-3*196)=13*196-4*630$
 >$14=42-1*28=1*630-3*196-1(13*196-4*630)=5*630-16*196\implies$ $\implies14=(5)*630+(-16)*196$
+
+^ee2326
+
