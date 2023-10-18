@@ -15,7 +15,7 @@ First 9 digits identify the book, while $a_{10}$ is a "check digit", where [[con
 #### Universal Product Codes (and bar codes)
 There are (often) $12$ digits below a bar code. As with the ISBN, the $12^{\textnormal{th}}$ digit is a check digit determined by:
 $$3(\textnormal{sum of digits in odd positions})+(\textnormal{sum of digits in even positions})\equiv 0\;(\textnormal{mod }10)$$
-![[Pasted image 20231017103452.png]]
+![[upc-code.png]]
 >[!example]
 >In the UPC above, $(3+0+0+9+4+2)+3(0+6+0+0+2+1+5)$
 >$=18+3(14)=60\equiv 0\;(\textnormal{mod }10)$ ✅

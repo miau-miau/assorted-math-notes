@@ -1,6 +1,7 @@
 ---
 tags:
   - number-theory
+  - algorithms
 order-tag: "0033"
 date: 2023-09-12
 ---
@@ -15,7 +16,7 @@ Now, $g_{2}|a$ and $g_{2}|b\to g_{2}\leq g_{1}$.
 Similarly, $g_{1}|b$ and $g_{1}|r\to g_{1}\leq g_{2}$.
 $g_{2}\leq g_{1},g_{2}\leq g_{1}\to g_{1}=g_{2}$.
 
-#### Euclidean Algorithm
+#### Euclidean [[algorithms-introduction|Algorithm]]
 Let $a, b \in \mathbb{N}$ and $a<b$. By [[division-algorithm|division algorithm]]:
 $a=q_{1}b+r_{1}$ and $0\leq r_{1}\leq b$
 If $r_{1}\neq 0$, apply it to $b$ and $r$:    $b=q_{2}r_{1}+r_{2}$ ($0\leq r_{2}<r_{1}$)
