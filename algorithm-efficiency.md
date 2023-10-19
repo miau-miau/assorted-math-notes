@@ -1,7 +1,7 @@
 ---
 tags:
   - algorithms
-order-tag: "0051"
+order-tag: "0052"
 date: 2023-09-26
 ---
 Let $A$ and $B$ be [[algorithms-introduction|algorithms]] that complete the same task and let $f$ and $g$ be their [[complexity-function|complexity functions]].

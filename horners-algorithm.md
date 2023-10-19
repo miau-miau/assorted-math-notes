@@ -1,7 +1,7 @@
 ---
 tags:
   - algorithms
-order-tag: "0047"
+order-tag: "0048"
 date: 2023-09-26
 big-O: O(n)
 storage: "1"
