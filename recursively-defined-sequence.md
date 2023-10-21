@@ -25,7 +25,7 @@ date: 2023-10-03
 \end{align}
 $$
 
+Finding an explicit formula for a recursively-defined sequence without guessing can be quite difficult (or impossible).
 
-
-
-
+>[!example]
+>See [[fibonacci-sequence|Fibonacci Sequence]]. How can we come up with this formula?
