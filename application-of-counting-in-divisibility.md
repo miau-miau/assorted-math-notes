@@ -22,7 +22,7 @@ This follows from the [[division-algorithm|Division Algorithm]].
 >Then $|\,A\,|=\lfloor \frac{300}{3} \rfloor=100$, $|\,B\,|=\lfloor \frac{300}{5} \rfloor=60$.
 >
 >See [[basic-counting|basic counting]].
->a) We want to find $|\,A\cap B\,|.
+>a) We want to find $|\,A\cap B\,|$.
 >Notice that $n\in A\cap B \leftrightarrow 3|n\textnormal{ and } 5|n \leftrightarrow 15|n$
 >So $A\cap B=\{ n\mid 1\leq n\leq 300 \textnormal{ and } 15|n\}\implies |\,A\cap B\,|=\lfloor \frac{300}{15} \rfloor=20$
 >
