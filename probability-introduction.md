@@ -16,6 +16,8 @@ date: 2023-10-24
 >>$A=\{ 2,4,6 \}$
 >>$\textnormal{P}(A)=\frac{3}{6}=\frac{1}{2}$
 
+^f55be6
+
 See more in [[basic-probability-problems]].
 
 #### Properties
@@ -25,7 +27,7 @@ a) $0\leq \textnormal{P}(A)\leq 1,\;\textnormal{P}(\emptyset)=0,\;\textnormal{P}
 b) $\textnormal{P}(A^{\mathbf{c}})=1-\textnormal{P}(A)$
 c) $\textnormal{P}(A\cup B)=\textnormal{P}(A)+\textnormal{P}(B)-\textnormal{P}(A\cap B)$
 d) If $A$ and $B$ are mutually exclusive (i.e. $A\cap B=\emptyset$), then $\textnormal{P}(A\cup B)=\textnormal{P}(A)+\textnormal{P}(B)$
-e) $\textnormal{P}(A\setminus B)=\textnormal{P}(A\cap B)$
+e) $\textnormal{P}(A\setminus B)=\textnormal{P}(A\cap B)$ ^e1085b
 
 >[!example]
 >A basket contains:

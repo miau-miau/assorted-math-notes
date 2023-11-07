@@ -39,6 +39,3 @@ date: 2023-10-24
 >$|\,A^{\mathbf{c}}\,|=(2!)(2!)2=8$
 >$|\,A\,|=|\,S\,|-|\,A^{\mathbf{c}}\,|=24-8=16$ (see [[basic-counting#Basics|basics of counting]])
 >Thus $\textnormal{P}(A)=\frac{16}{24}=\frac{2}{3}$
-
-
- 
