@@ -7,6 +7,8 @@ date: 2023-10-12
 >[!notation]
 >$|\,S\,|$ is the number of elements of [[sets-naive|set]] $S$.
 
+^a2b301
+
 Let $A$ and $B$ be [[sets-naive|sets]] of a finite [[set-complement|universal]] set $U$.
 #### Basics
 - Number of elements in [[set-difference#Set Difference|set difference]]:

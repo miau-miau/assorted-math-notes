@@ -4,7 +4,7 @@ tags:
 order-tag: "0064"
 date: 2023-10-17
 ---
-If $A$ and $B$ are finite [[sets-naive|sets]], $|\,A\,|>|\,B\,|$, and $f:A\to B$ is a [[functions|function]], then $f$ cannot be [[surjective-and-injective-functions|one-to-one]].
+If $A$ and $B$ are finite [[sets-naive|sets]], $|\,A\,|>|\,B\,|$ ([[basic-counting#^a2b301|basic counting]]), and $f:A\to B$ is a [[functions|function]], then $f$ cannot be [[surjective-and-injective-functions|one-to-one]].
 ```tikz
 \begin{document}
 \begin{tikzpicture}
