@@ -3,6 +3,8 @@ tags:
   - functions-and-maps
 order-tag: "0027"
 date: 2023-09-07
+aliases:
+  - composition
 ---
 >[!definition]
 >If $f:A\to B$ and $g:B\to C$ are [[functions]], then the **composition of $f$ and $f$** if

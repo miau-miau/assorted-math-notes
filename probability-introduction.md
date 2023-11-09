@@ -3,6 +3,8 @@ tags:
   - probability
 order-tag: "0069"
 date: 2023-10-24
+aliases:
+  - probability
 ---
 >[!definition]
 >Let $S$ be the [[sets-naive|set]] of all outcomes of an experiment ($S$ is called the **sample space**).

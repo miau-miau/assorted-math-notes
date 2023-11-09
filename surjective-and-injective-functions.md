@@ -3,6 +3,11 @@ tags:
   - functions-and-maps
 order-tag: "0024"
 date: 2023-09-07
+aliases:
+  - one-to-one
+  - onto
+  - surjective
+  - injective
 ---
 >[!definition]
 >[[functions|Function]] $f$ is **onto** (surjective) if $\textnormal{rng }f=B$

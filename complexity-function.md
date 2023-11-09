@@ -3,6 +3,8 @@ tags:
   - algorithms
 order-tag: "0049"
 date: 2023-09-26
+aliases:
+  - complexity function
 ---
 >[!definition]
 >The **complexity [[functions|function]]** $f:\mathbb{N}\to \mathbb{N}$ provides an upper bound for the number of operations to carry out an algorithm.

@@ -3,6 +3,8 @@ tags:
   - number-theory
 order-tag: "0032"
 date: 2023-09-12
+aliases:
+  - gcd
 ---
 >[!definition]
 >Let $a, b\in\mathbb{Z}$, not both 0. The **greatest common [[basic-division|divisor]]** of $a$ and $b$, written $g=gcd(a,b)$ is the integer satisfying:

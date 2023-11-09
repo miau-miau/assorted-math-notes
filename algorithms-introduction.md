@@ -3,6 +3,8 @@ tags:
   - algorithms
 order-tag: "0047"
 date: 2023-09-26
+aliases:
+  - algorithm
 ---
 >[!definition]
 >An algorithm is a systematic process by which a task is completed.

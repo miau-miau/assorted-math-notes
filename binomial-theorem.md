@@ -3,6 +3,8 @@ tags:
   - combinatorics
 order-tag: "0075"
 date: 2023-10-26
+aliases:
+  - Binomial Theorem
 ---
 Let's expand $(x+y)^n$, where $n\in\mathbb{N}$
 $(x+y)^1=x+y$

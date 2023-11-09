@@ -3,6 +3,8 @@ tags:
   - algorithms
 order-tag: "0050"
 date: 2023-09-26
+aliases:
+  - Big O
 ---
 >[!definition]
 >Let $f,g:\mathbb{N}\to \mathbb{N}$. We write $f=O(g)$ (say $f$ is Big O of $g$) if

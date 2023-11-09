@@ -3,6 +3,8 @@ tags:
   - set-theory
 order-tag: "0009"
 date: 2023-08-29
+aliases:
+  - complement
 ---
 #### Complement
 

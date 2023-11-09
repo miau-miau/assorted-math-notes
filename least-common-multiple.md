@@ -3,6 +3,8 @@ tags:
   - number-theory
 order-tag: "0036"
 date: 2023-09-14
+aliases:
+  - lcm
 ---
 >[!definition]
 >If $a,b\in\mathbb{Z}\setminus\{0\}$, then **the least common multiple** of $a$ and $b$ ($lcm(a,b)$) is the positive integer satisfying:

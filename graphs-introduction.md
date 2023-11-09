@@ -3,6 +3,9 @@ tags:
   - graph-theory
 order-tag: "0077"
 date: 2023-10-31
+aliases:
+  - graph
+  - pseudograph
 ---
 #### Graph
 >[!definition]

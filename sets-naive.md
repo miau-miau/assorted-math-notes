@@ -3,6 +3,8 @@ tags:
   - set-theory
 order-tag: "0005"
 date: 2023-08-29
+aliases:
+  - set
 ---
 >[!definition]
 >A set is a collection of objects called **elements**.

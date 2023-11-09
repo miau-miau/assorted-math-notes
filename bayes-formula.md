@@ -3,6 +3,8 @@ tags:
   - probability
 order-tag: "0074"
 date: 2023-10-26
+aliases:
+  - Bayes' Formula
 ---
 #### Bayes' Formula
 

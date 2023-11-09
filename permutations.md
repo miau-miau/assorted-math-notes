@@ -3,6 +3,8 @@ tags:
   - combinatorics
 order-tag: "0066"
 date: 2023-10-19
+aliases:
+  - permutation
 ---
 >[!definition]
 >A **permutation** of a [[sets-naive|set]] of $n$ distinct elements is an arrangement of them in some order.

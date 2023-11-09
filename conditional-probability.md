@@ -3,6 +3,8 @@ tags:
   - probability
 order-tag: "0071"
 date: 2023-10-26
+aliases:
+  - conditional probablity
 ---
 >[!example]
 >Let $A$ and $B$ be events with $\textnormal{P}(A)>0$. The **conditional [[probability-introduction|probability]]** of $B$ given $A$ is

@@ -4,6 +4,8 @@ tags:
   - algorithms
 order-tag: "0033"
 date: 2023-09-12
+aliases:
+  - Euclidean Algorithm
 ---
 #### Lemma
 $$\textnormal{If }a=qb+r,\textnormal{ then }gcd(a,b)=gcd(b,r)$$

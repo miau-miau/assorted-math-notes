@@ -3,6 +3,8 @@ tags:
   - "#functions-and-maps"
 order-tag: "0023"
 date: 2023-09-07
+aliases:
+  - function
 ---
 >[!definition]
 >A **function** from $A$ to $B$ ($f:A\to B$) is a [[binary-relation|binary relation]] from $A$ to $B$ satisfying
