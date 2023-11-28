@@ -5,7 +5,7 @@ order-tag: "0082"
 date: 2023-11-02
 ---
 >[!definition]
->Let $v_{1},\dots,v_{n}\;(n\geq 3)$ be $n$ vertices in a [[graphs-introduction|graph]] $G$ such that $v_{i}$ and $v_{i+1}$ are adjacent $\forall\,i\mid1\leq i\leq n-1$ and $v_{1}$ and $v_{n}$ are also adjacent. Then the set of these $n$ vertices and $n$ edges is called an **n-cycle**.
+>Let $v_{1},\dots,v_{n}\;(n\geq 3)$ be $n$ vertices in a [[graphs-introduction|graph]] $G$ such that $v_{i}$ and $v_{i+1}$ are adjacent $\forall\,i\mid1\leq i\leq n-1$ and $v_{1}$ and $v_{n}$ are also adjacent. Then the set of these $n$ vertices and $n$ edges is called an **n-cycle**. 
 >>[!example]
 >>Blue is 4-cycle, and green is 3-cycle (also known as triangle).
 >>```tikz
